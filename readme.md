@@ -1,5 +1,5 @@
 # got dex
-
+Android studio 3.6可直接运行
 ## 软件说明
 
 通过hook 得到脱壳后的dex
@@ -7,7 +7,7 @@
 * 需要基于xposed 框架
 
 ## 使用步骤
-* 安装xposed框架
+* 安装xposed框架（可通过模拟器安装）
 * clone本项目，编译apk
 * 安装apk，激活模块
 * 启动got dex，设置要脱壳的应用包名，确定重启
